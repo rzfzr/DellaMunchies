@@ -17,6 +17,14 @@ public class Main : MonoBehaviour {
 
     void OnTriggerEnter(Collider other)
     {
-        print("Colisao com "+other.tag);
+        //print("Colisao com "+other.tag);
+    }
+
+
+    public void OnDoneButton() {
+
+
+
+
     }
 }
